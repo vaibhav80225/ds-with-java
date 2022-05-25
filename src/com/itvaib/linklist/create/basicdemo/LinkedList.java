@@ -1,4 +1,4 @@
-package com.itvaib.linklist.create;
+package com.itvaib.linklist.create.basicdemo;
 
 class LinkedList
 {

@@ -1,4 +1,5 @@
-package com.itvaib.linklist.create;
+package com.itvaib.linklist.create.basicdemo;
+
 
 public class NodeOperation {
     public static void main(String ar[]){
@@ -31,6 +32,10 @@ public class NodeOperation {
         LinkedList.Node temp = new LinkedList.Node(i);
         temp.setNext(start);
         start =  temp;
+
+    }
+
+    static void insertNodeInBeginning(){
 
     }
 

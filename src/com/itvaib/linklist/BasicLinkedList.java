@@ -1,2 +1,5 @@
-package com.itvaib.linklist;public class BasicLinkedList {
+package com.itvaib.linklist;
+
+public class BasicLinkedList {
+
 }
